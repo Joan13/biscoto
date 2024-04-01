@@ -1,0 +1,11 @@
+{
+  "expo": {
+    "name": "yambi.biscoto",
+    "slug": "yambi.biscoto",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  },
+  "name": "yambi.biscoto"
+}
