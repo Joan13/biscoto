@@ -1,4 +1,4 @@
-package com.yambibiscoto
+package com.yambi.biscoto
 
 import android.os.Build
 import android.os.Bundle

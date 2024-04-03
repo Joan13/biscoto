@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "914995856415",
+    "project_id": "biscoto1-757a4",
+    "storage_bucket": "biscoto1-757a4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:914995856415:android:aa29fd2df228b761cc412a",
+        "android_client_info": {
+          "package_name": "com.yambi.biscoto"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0FS30McH11u7ofLMYkv2VtOolmILrrRw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

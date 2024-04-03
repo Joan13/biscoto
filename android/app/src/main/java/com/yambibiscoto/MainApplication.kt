@@ -1,4 +1,4 @@
-package com.yambibiscoto
+package com.yambi.biscoto
 
 import android.app.Application
 import android.content.res.Configuration

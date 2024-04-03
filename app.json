@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "yambi.biscoto",
-    "slug": "yambi.biscoto",
+    "name": "Biscoto",
+    "slug": "Biscoto",
     "version": "1.0.0",
     "assetBundlePatterns": [
       "**/*"
     ]
   },
-  "name": "yambi.biscoto"
+  "name": "Biscoto"
 }
