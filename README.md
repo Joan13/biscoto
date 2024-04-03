@@ -32,17 +32,19 @@ Sign in using your Google account.
 Use the voice recording feature to record audio.
 Planned: The recorded audio will be converted to text using the voice-to-text functionality (currently not functional).
 
+NB: The APK file for download is at the root of the project.
+
 ## Running the App
 
 Run the app on Android.
 
-    ```bash
+    ```
     npx react-native run-android
     ```
 
 Run the app on iOS.
 
-    ```bash
+    ```
     npx react-native run-ios
     ```
 
