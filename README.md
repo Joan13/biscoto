@@ -15,7 +15,6 @@ Biscoto is a React Native app that integrates Google Sign-In for user authentica
 
    ```bash
    cd biscoto
-
    ```
 
 3. Install dependencies.
@@ -40,11 +39,13 @@ Run the app on Android.
 
     ```bash
     npx react-native run-android
+    ```
 
 Run the app on iOS.
 
     ```bash
     npx react-native run-ios
+    ```
 
 ## Known Issues
 
