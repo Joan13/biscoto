@@ -2,6 +2,10 @@
 
 Biscoto is a React Native app that integrates Google Sign-In for user authentication. It also includes a voice recording feature with the objective of building a voice-to-text functionality, which unfortunately is not functional due to issues with the free APIs from Deepgram.
 
+1. Clone the repository.
+   ```bash
+   git clone https://github.com/yourusername/Biscoto.git
+
 ## Installation
 
     Clone the repository.
