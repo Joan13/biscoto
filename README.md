@@ -43,7 +43,7 @@ npx react-native run-android
 ```
 
 ```bash
-cd biscoto
+npx react-native run-android
 ```
 
 Run the app on iOS.
@@ -51,6 +51,10 @@ Run the app on iOS.
     ```
     npx react-native run-ios
     ```
+
+```bash
+npx react-native run-ios
+```
 
 ## Known Issues
 
