@@ -7,7 +7,7 @@ Biscoto is a React Native app that integrates Google Sign-In for user authentica
 1. Clone the repository.
 
    ```bash
-   git clone https://github.com/yourusername/biscoto.git
+   git clone https://github.com/Joan13/biscoto.git
    ```
 
 2. Navigate to the project directory.
