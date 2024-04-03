@@ -38,9 +38,13 @@ NB: The APK file for download is at the root of the project.
 
 Run the app on Android.
 
-    ```
-    npx react-native run-android
-    ```
+```
+npx react-native run-android
+```
+
+```bash
+cd biscoto
+```
 
 Run the app on iOS.
 
