@@ -38,19 +38,11 @@ NB: The APK file for download is at the root of the project.
 
 Run the app on Android.
 
-```
-npx react-native run-android
-```
-
 ```bash
 npx react-native run-android
 ```
 
 Run the app on iOS.
-
-    ```
-    npx react-native run-ios
-    ```
 
 ```bash
 npx react-native run-ios
